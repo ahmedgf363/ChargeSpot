@@ -40,20 +40,7 @@ run the charging sessions, and administrators study demand, utilization and canc
 | 📊 **Admin analytics**     | cleaning report, KPIs, generated insights, demand heatmap, station map, 15+ charts, CSV export                                 |
 | 🤖 **AI features**         | demand forecast, rule-based assistant (English / Arabic), station recommendation, scheduling optimizer, predictive maintenance |
 | 🔐 **Accounts & roles**    | login, e-mail verification, password reset, three roles, permissions enforced in the application layer                         |
-| 🧪 **Algorithm Lab**       | measures every data structure and algorithm on the real data                                                                   |
 
-## 🖼️ Screenshots
-
-> Screenshots are **not included yet**. Run the app, capture the pages below and save them in `docs/screenshots/`.
-
-| Page              | Role          | What to show                                                           |
-| ----------------- | ------------- | ---------------------------------------------------------------------- |
-| Bookings          | Driver        | station list with the ⭐ recommended station, then a confirmed booking |
-| Waiting List      | Driver        | queue position                                                         |
-| Charging Sessions | Operator      | start / complete with planned vs actual time                           |
-| Stations          | Administrator | charger management and the Undo button                                 |
-| Admin Analytics   | Administrator | Overview insights, demand heatmap, Data-quality report                 |
-| Algorithm Lab     | Administrator | sequential vs binary vs hash lookup                                    |
 
 ## 🚀 Quick start
 
