@@ -2,7 +2,7 @@
 
 # ⚡ ChargeSpot
 
-**Find, book and manage EV charging - with a fair waiting list, live sessions and an analytics dashboard.**
+**Find , book and manage EV charging - with a fair waiting list, live sessions and an analytics dashboard.**
 
 ![Python]\([https://img.shields.io/badge/python-3.12-3776AB?logo=python&logoColor=white](https://img.shields.io/badge/python-3.12-3776AB?logo=python&logoColor=white))
 ![Streamlit]\([https://img.shields.io/badge/streamlit-1.65-FF4B4B?logo=streamlit&logoColor=white](https://img.shields.io/badge/streamlit-1.65-FF4B4B?logo=streamlit&logoColor=white))
